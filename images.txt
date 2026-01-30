@@ -1,1 +1,1 @@
-docker pull ladaapp/lada:v0.10.1
+ladaapp/lada:v0.10.1
